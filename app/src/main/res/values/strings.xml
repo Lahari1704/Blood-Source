@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Blood Source</string>
+    <string name="we_will_send_you_an_otp_to_the_given_mobile_number_shortly">We will send you an otp to the given mobile number shortly</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="otp_verification">OTP verification</string>
+    <string name="please_enter_the_otp_sent_to_you">Please Enter the OTP sent to you</string>
+    <string name="OTP_verification">OTP_verification</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign up</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Login">LOGIN</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="signup">Signup</string>
+    <string name="visit_hospital_for_further_procedure">VISIT HOSPITAL FOR FURTHER PROCEDURE</string>
+    <string name="donor_form">DONOR FORM</string>
+    <string name="dob">DOB</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="blood_group">Blood Group</string>
+    <string name="register">REGISTER</string>
+    <string name="enter_your_registered_email_id">Enter your registered email id</string>
+    <string name="reset_password">RESET PASSWORD</string>
+    <string name="person_id_label" />
+    <string name="first_name_label" />
+    <string name="last_name_label" />
+</resources>

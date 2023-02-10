@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "784112589970",
+    "firebase_url": "https://blood-source-f875d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "blood-source-f875d",
+    "storage_bucket": "blood-source-f875d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784112589970:android:f63985e262ab51b60f1a4b",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784112589970-eigoq39av4sot2qk6md1tupkn0j24jdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "2fc38405179979e06a1246973c629918bed54af2"
+          }
+        },
+        {
+          "client_id": "784112589970-0b82ir4b5rhb2ki5cqkdalmif7a5lbic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcGwB_FwyMVCyF58Xcgnim_7zZvzi17iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784112589970-0b82ir4b5rhb2ki5cqkdalmif7a5lbic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
